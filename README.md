@@ -1,5 +1,5 @@
 <details>
-# <summary>How to Install</summary>
+<summary><h2>How to Install</h2></summary>
 <br>
 1. Open Steam
 2. Click on "SCP: Secret Laboratory" <br />
