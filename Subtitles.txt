@@ -1,0 +1,31 @@
+<color=blue><b> | MTF [designation] | </b></color>
+<color=red><b>Re-containing [count] SCPs</b></color>
+<color=red><b>Re-containing 1 SCP</b></color>
+<color=red><b>Threat remains within the facility</color>
+successfully terminated. Termination cause unspecified.
+terminated by SCP-[scp].
+successfully terminated by Tesla Gate System.
+successfully terminated by Alpha Warhead.
+contained successfully by Science Personnel.
+contained successfully by Class-D Personnel.
+contained successfully by Chaos Insurgency.
+SCP-[scp]
+contained successfully. Containment unit unknown.
+contained successfully. Containment Unit [designation].
+lost in Decontamination Sequence.
+[current] out of [max] generators activated.
+<split>All generators have been successfully engaged.
+Overcharge in 3... 2... 1...
+Facility is back in operational mode.
+Attention, all personnel.<split>The Light Containment Zone decontamination process will occur in T-15 minutes.<split>All biological substances must be removed in order to avoid destruction.
+<color=yellow><b>| ! DECONTAMINATION: [time] ! |</b></color>
+<color=red><b>Danger, Light Containment Zone overall decontamination in T-1 minute.</b></color>
+<color=red><b>Danger, Light Containment Zone overall decontamination in T-30 seconds.<split>All checkpoint doors have been permanently opened. Please evacuate immediately.</b></color>
+Light Containment Zone is locked down and ready for decontamination.<split>The removal of organic substances has now begun.
+<color=red><b>| ! WARHEAD: [time] ! |</b></color>
+<color=green><b>| ! WARHEAD STOPPED ! |</b></color>
+<color=red><b>| ! WARHEAD RESUMED: [time] ! |</b></color>
+terminated by Marshmallow Man.
+Nine-Tailed Fox Backup Unit designated [designation] has entered the facility.<split>
+<color=green>| ! CHAOS BACKUP WAVE DETECTED ON SURFACE ! |</color>
+<color=green>| ! CHAOS SPAWN WAVE DETECTED ON SURFACE ! |</color>

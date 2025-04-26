@@ -1,0 +1,18 @@
+Custom
+Preset #[index]
+<color=green>SAVE</color>
+CLEAR ATTACHMENTS
+Default
+PRESETS
+<color=red><b>DISABLED</b></color>
+<b><color=#F60909>W</color><color=#ED0912>E</color><color=#E4091B>A</color><color=#DB0924>P</color><color=#D2092D>O</color><color=#C90936>N</color> <color=#B70948>C</color><color=#AE0951>U</color><color=#A5095A>S</color><color=#9C0963>T</color><color=#93096C>O</color><color=#8A0975>M</color><color=#81097E>I</color><color=#780987>Z</color><color=#6F0990>A</color><color=#660999>T</color><color=#5D09A2>I</color><color=#5409AB>O</color><color=#4B09B4>N</color> <color=#3909C6>T</color><color=#3009CF>A</color><color=#2709D8>B</color><color=#1E09E1>L</color><color=#1509EA>E</color></b>
+WELCOME, USER!
+WORKSTATION IS BOOTING UP
+<color=green>ENABLED</color>
+<b><size=54><color=#13F707>E</color><color=#13ED12>Q</color><color=#13E31D>U</color><color=#13D928>I</color><color=#13CF33>P</color> <color=#13BB49>W</color><color=#13B154>E</color><color=#13A75F>A</color><color=#139D6A>P</color><color=#139375>O</color><color=#138980>N</color> <color=#137596>T</color><color=#136BA1>O</color> <color=#1357B7>C</color><color=#134DC2>U</color><color=#1343CD>S</color><color=#1339D8>T</color><color=#132FE3>O</color><color=#1325EE>M</color><color=#131BF9>I</color><color=#1311FF>Z</color><color=#1307FF>E</color></size></b>
+POWERING DOWN
+WORKSTATION IS SHUTTING DOWN
+SHOW SUMMARY
+CLOSE SUMMARY
+[Attachment] Customization
+Press [Key] to edit attachments.

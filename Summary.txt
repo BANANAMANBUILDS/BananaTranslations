@@ -1,0 +1,19 @@
+The round has finished!
+<b><color=#F70404>S</color><color=#F50D0D>C</color><color=#F31616>P</color> <color=#EF2828>V</color><color=#ED3131>I</color><color=#EB3A3A>C</color><color=#E94343>T</color><color=#E74C4C>O</color><color=#E55555>R</color><color=#E35E5E>Y</color></b>
+<color=#0F02F7>F</color><color=#1E12F7>A</color><color=#2D22F7>C</color><color=#3C32F7>I</color><color=#4B42F7>L</color><color=#5A52F7>I</color><color=#6962F7>T</color><color=#7872F7>Y</color> <color=#9692F7>V</color><color=#A5A2F7>I</color><color=#B4B2F7>C</color><color=#C3C2F7>T</color><color=#D2D2F7>O</color><color=#E1E2F7>R</color><color=#F0F2F7>Y</color>
+<color=#03F91F>I</color><color=#03F01E>N</color><color=#03E71D>S</color><color=#03DE1C>U</color><color=#03D51B>R</color><color=#03CC1A>G</color><color=#03C319>E</color><color=#03BA18>N</color><color=#03B117>T</color> <color=#039F15>V</color><color=#039614>I</color><color=#038D13>C</color><color=#038412>T</color><color=#037B11>O</color><color=#037210>R</color><color=#03690F>Y</color>
+<color=#FDFDFF>U</color><color=#EEEEF0>N</color><color=#DFDFE1>D</color><color=#D0D0D2>E</color><color=#C1C1C3>T</color><color=#B2B2B4>E</color><color=#A3A3A5>R</color><color=#949496>M</color><color=#858587>I</color><color=#767678>N</color><color=#676769>E</color><color=#58585A>D</color>
+The escaped subjects have overrun the facility. Emergency response has been scrambled.
+All threats to safety have been neutralized. Site-02 is secure once again.
+Foundation presence has been exterminated. Operatives standing by for further orders.
+Site-02 is under certain control, but not without cost. The victor is undetermined.
+[summary_d_escaped] class-d escaped
+[summary_s_escaped] scientist(s) survived
+The Alpha Warhead's detonation terminated [summary_warhead_kills] beings.
+The Alpha Warhead was not detonated during this round.
+The round took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
+[summary_scp_terminated] terminated SCPs
+Next round in [summary_next_round_countdown] seconds.
+The SCPs killed [summary_scpfrags] human beings.
+FLAMINGOS WIN
+All other teams have been exterminated. Total flamingo victory has been achieved.

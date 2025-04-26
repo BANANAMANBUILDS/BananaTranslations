@@ -1,0 +1,35 @@
+<b>[user]</b> | <b>[class]</b>\n\n<b><color=red>[cause]</color></b>
+Gassed.
+<b><color=#F50A0A>C</color><color=#F52425>O</color><color=#F53E40>M</color><color=#F5585B>B</color><color=#F57276>U</color><color=#F58C91>S</color><color=#F5A6AC>T</color><color=#F5C0C7>E</color><color=#F5DAE2>D</color></b>
+SCP-049 Cure.
+Unknown cause of death.
+Electricuted.
+Oxygen deprivation resulted in a death of asphyxia.
+Severe blood loss caused by deep wounds.
+You have bled out.
+Fall Damage.
+You have fallen to your death.
+Decayed in the Pocket Dimension.
+Melted by a highly corrosive substance.
+Poison.
+You were poisoned to death.
+Pale skin and blood leaking from the mouth suggest internal bleeding caused by substance ingestion.
+SCP-207 Tore you to pieces.
+SCP-330 Received your hands.
+Fucking idiot.
+Shrapnel and severe burns caused by an explosion.
+You've been killed by a nearby explosion.
+Massive lacerations and excessive blood loss.
+SCP-173 Neck removal.
+SCP-939 Slashes.
+Blunt trauma and minor scratches are present on the body.
+[ammotype] bullet wounds.
+Fatal blunt trauma; the body is badly mutilated and pulped.
+Signs of severe trauma to both femur bones suggests death by circulatory shock.
+You've been sacrificed to recontain SCP-106.
+Automatically killed for friendly fire.
+Granny Gas.
+SCP-244 Froze you to death.
+Deep lacerations and scratches are present on the body.
+The Marshmallow Man has killed you!
+Bullet wounds with organic residue.

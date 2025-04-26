@@ -1,0 +1,29 @@
+None
+<color=yellow>SCP-173</color>
+<color=orange>Class-D</color>
+Spectator
+<color=blue>SCP-106</color>
+<b><color=#2B15F5>S</color><color=#2B17EB>p</color><color=#2B19E1>e</color><color=#2B1BD7>c</color><color=#2B1DCD>i</color><color=#2B1FC3>a</color><color=#2B21B9>l</color><color=#2B23AF>i</color><color=#2B25A5>s</color><color=#2B279B>t</color></b>
+SCP-049
+Scientist
+SCP-079
+<b><color=#09FD09>C</color><color=#09EA09>o</color><color=#09D709>n</color><color=#09C409>s</color><color=#09B109>c</color><color=#099E09>r</color><color=#098B09>i</color><color=#097809>p</color><color=#096509>t</color></b>
+SCP-096
+SCP-049-2
+<b><color=#1B02F8>S</color><color=#1A03E6>e</color><color=#1904D4>r</color><color=#1805C2>g</color><color=#1706B0>e</color><color=#16079E>a</color><color=#15088C>n</color><color=#14097A>t</color></b>
+<color=#0B0167>C</color><color=#0D017B>a</color><color=#0F018F>p</color><color=#1101A3>t</color><color=#1301B7>a</color><color=#1501CB>i</color><color=#1701DF>n</color>
+<b><color=#6556F9>S</color><color=#5B4BF9>o</color><color=#5140F9>l</color><color=#4735F9>d</color><color=#3D2AF9>i</color><color=#331FF9>e</color><color=#2914F9>r</color></b>
+Tutorial
+Facility Guard
+SCP-939
+Custom Role
+<b><color=#07F937>C</color><color=#0BDE4C>I</color> <color=#13A876>S</color><color=#178D8B>O</color><color=#1B72A0>L</color><color=#1F57B5>D</color><color=#233CCA>I</color><color=#2721DF>E</color><color=#2B06F4>R</color></b>
+<b><color=#08FA7D>S</color><color=#08EC71>h</color><color=#08DE65>o</color><color=#08D059>t</color><color=#08C24D>g</color><color=#08B441>u</color><color=#08A635>n</color><color=#089829>n</color><color=#088A1D>e</color><color=#087C11>r</color></b>
+<b><color=#014301>C</color><color=#1E3A23>I</color> <color=#582867>H</color><color=#751F89>E</color><color=#9216AB>A</color><color=#AF0DCD>V</color><color=#CC04EF>Y</color></b>
+Overwatch
+Filmmaker
+SCP-3114
+Destroyed
+SCP-1507
+SCP-1507-Alpha
+SCP-1507-049
