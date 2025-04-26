@@ -44,6 +44,12 @@ Now move to the installation tutorial if you don't know how to install it from t
 </br>
 </details>
 
+## To choose this translation in SL:
+Simply go to settings > interface > interface language > BananaTranslationv2
+
+The language list may take time to load, just be patient.
+
+
 
 
 
