@@ -3,7 +3,8 @@
 <br>
 1. Open Steam
 2. Click on "SCP: Secret Laboratory" <br />
-![image](https://github.com/user-attachments/assets/1804cb0d-dfbf-4ea3-a639-113aabaac3a6)
+  
+![image](https://github.com/user-attachments/assets/5c9e9d36-840d-48db-838f-f367d2b546cc)
 
 4. Click the cog ⚙️ icon on the right middle area <br />
 ![image](https://github.com/user-attachments/assets/2a4744d8-3e6c-43b4-963f-70a23f4ca9ae)
@@ -19,6 +20,7 @@
 
 8. Make sure inside "BananaTranslationv2" all of the txt files are there <br />
 ![image](https://github.com/user-attachments/assets/2b82f911-9b81-4362-b5b8-599f79ade439)
+</br>
 </details>
 
 
