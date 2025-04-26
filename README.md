@@ -13,7 +13,7 @@
 6. Double click "Translations" to open it <br />
 ![image](https://github.com/user-attachments/assets/6b4f50a2-560c-4522-9197-a6d08c8d1efa)
 
-7. Copy the files you downloaded here and paste them into this folder. It should look something like this <br />
+7. Copy the files you downloaded in this github (BananaTranslationv2) and paste it into the translations folder. It should look something like this <br />
 ![image](https://github.com/user-attachments/assets/5bc51c04-1389-4a21-b2dd-4108bfc0aaed)
 
 8. Make sure inside "BananaTranslationv2" all of the txt files are there <br />
