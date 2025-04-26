@@ -26,7 +26,11 @@
 <details>
 <summary><h2>How to Download</h2></summary>
 <br>
-1. Click "Code"
+1. Click "Code" then Download <br />
+
+![image](https://github.com/user-attachments/assets/46ea2b7c-7182-41df-b8be-d5d89b66d936)
+2.
+
 </br>
 </details>
 
