@@ -14,6 +14,6 @@ CREATE SINKHOLE
 USE SINKHOLE
 YOU DIED
 Murdered by:
-as
+with the role of
 Passive
 (hidden)

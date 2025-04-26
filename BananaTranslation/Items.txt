@@ -1,24 +1,24 @@
-0~Janitor Keycard
-1~Scientist Keycard
-2~Research Supervisor Keycard
-3~Zone Manager Keycard
-4~Guard Keycard
+0~<b><color=#CFCAFA>J</color><color=#D1CCFA>A</color><color=#D3CEFA>N</color><color=#D5D0FA>I</color><color=#D7D2FA>T</color><color=#D9D4FA>O</color><color=#DBD6FA>R</color> <color=#DFDAFA>A</color><color=#E1DCFA>C</color><color=#E3DEFA>C</color><color=#E5E0FA>E</color><color=#E7E2FA>S</color><color=#E9E4FA>S</color> <color=#EDE8FA>C</color><color=#EFEAFA>A</color><color=#F1ECFA>R</color><color=#F3EEFA>D</color></b>
+1~<b><color=#F9D404>R</color><color=#F9D409>E</color><color=#F9D40E>S</color><color=#F9D413>E</color><color=#F9D418>A</color><color=#F9D41D>R</color><color=#F9D422>C</color><color=#F9D427>H</color><color=#F9D42C>E</color><color=#F9D431>R</color> <color=#F9D43B>A</color><color=#F9D440>C</color><color=#F9D445>C</color><color=#F9D44A>E</color><color=#F9D44F>S</color><color=#F9D454>S</color> <color=#F9D45E>C</color><color=#F9D463>A</color><color=#F9D468>R</color><color=#F9D46D>D</color></b>
+2~<b><color=#7D6A01>R</color><color=#816E01>E</color><color=#857201>S</color><color=#897601>E</color><color=#8D7A01>A</color><color=#917E01>R</color><color=#958201>C</color><color=#998601>H</color> <color=#A18E01>S</color><color=#A59201>U</color><color=#A99601>P</color><color=#AD9A01>E</color><color=#B19E01>R</color><color=#B5A201>V</color><color=#B9A601>I</color><color=#BDAA01>S</color><color=#C1AE01>O</color><color=#C5B201>R</color> <color=#CDBA01>A</color><color=#D1BE01>C</color><color=#D5C201>C</color><color=#D9C601>E</color><color=#DDCA01>S</color><color=#E1CE01>S</color> <color=#E9D601>C</color><color=#EDDA01>A</color><color=#F1DE01>R</color><color=#F5E201>D</color></b>
+3~<b><color=#04F77A>Z</color><color=#04EF74>O</color><color=#04E76E>N</color><color=#04DF68>E</color> <color=#04CF5C>M</color><color=#04C756>A</color><color=#04BF50>N</color><color=#04B74A>A</color><color=#04AF44>G</color><color=#04A73E>E</color><color=#049F38>M</color><color=#049732>E</color><color=#048F2C>N</color><color=#048726>T</color> <color=#04771A>A</color><color=#046F14>C</color><color=#04670E>C</color><color=#045F08>E</color><color=#045702>S</color><color=#044F00>S</color></b>
+4~<b><color=#67676B>S</color><color=#727276>E</color><color=#7D7D81>C</color><color=#88888C>U</color><color=#939397>R</color><color=#9E9EA2>I</color><color=#A9A9AD>T</color><color=#B4B4B8>Y</color> <color=#CACACE>P</color><color=#D5D5D9>A</color><color=#E0E0E4>S</color><color=#EBEBEF>S</color></b>
 5~MTF Private Keycard
 6~Containment Engineer Keycard
-7~MTF Operative Keycard
-8~MTF Captain Keycard
-9~Facility Manager Keycard
-10~Chaos Insurgency Access Device
-11~O5-level Keycard
-12~Radio~Allows communication over long distances between devices. Range can be adjusted.
-13~COM-15
-14~First Aid Kit~Heals your injuries.
-15~Flashlight~Let there be light!
-16~Micro H.I.D.~Heavy electrical device designed for the termination of anomalies.
-17~SCP-500~The Panacea. Instantly restores all health and cures most afflictions. 
-18~SCP-207~Harmfully increases motor skills.
-20~MTF-E11-SR
-21~Crossvec
+7~<b><color=#6C5DF7>O</color><color=#6561F7>P</color><color=#5E65F7>E</color><color=#5769F7>R</color><color=#506DF7>A</color><color=#4971F7>T</color><color=#4275F7>I</color><color=#3B79F7>V</color><color=#347DF7>E</color> <color=#2685F7>A</color><color=#1F89F7>C</color><color=#188DF7>C</color><color=#1191F7>E</color><color=#0A95F7>S</color><color=#0399F7>S</color></b>
+8~<b><color=#1A02F5>C</color><color=#190BF5>A</color><color=#1814F5>P</color><color=#171DF5>T</color><color=#1626F5>A</color><color=#152FF5>I</color><color=#1438F5>N</color> <color=#124AF5>A</color><color=#1153F5>C</color><color=#105CF5>C</color><color=#0F65F5>E</color><color=#0E6EF5>S</color><color=#0D77F5>S</color></b>
+9~<b><color=#1A02F5>C</color><color=#190BF5>A</color><color=#1814F5>P</color><color=#171DF5>T</color><color=#1626F5>A</color><color=#152FF5>I</color><color=#1438F5>N</color> <color=#124AF5>A</color><color=#1153F5>C</color><color=#105CF5>C</color><color=#0F65F5>E</color><color=#0E6EF5>S</color><color=#0D77F5>S</color></b>
+10~<b><color=#61F906>G</color><color=#5BEE06>A</color><color=#55E306>T</color><color=#4FD806>E</color> <color=#43C206>H</color><color=#3DB706>A</color><color=#37AC06>C</color><color=#31A106>K</color> <color=#258B06>D</color><color=#1F8006>E</color><color=#197506>V</color><color=#136A06>I</color><color=#0D5F06>C</color><color=#075406>E</color></b>
+11~<b><color=#000000>O</color><color=#010010>M</color><color=#020020>N</color><color=#030030>I</color><color=#040040>-</color><color=#050050>A</color><color=#060060>C</color><color=#070070>C</color><color=#080080>E</color><color=#090090>S</color><color=#0A00A0>S</color> <color=#0C00C0>C</color><color=#0D00D0>A</color><color=#0E00E0>R</color><color=#0F00F0>D</color></b>
+12~<b><color=#0227F7>R</color><color=#024CF7>A</color><color=#0271F7>D</color><color=#0296F7>I</color><color=#02BBF7>O</color></b>~<b>Allows communication over long distances between devices. Range can be adjusted.</b>
+13~<b><color=#049DFA>P</color><color=#0D97EB>E</color><color=#1691DC>A</color> <color=#2885BE>S</color><color=#317FAF>H</color><color=#3A79A0>O</color><color=#437391>O</color><color=#4C6D82>T</color><color=#556773>E</color><color=#5E6164>R</color></b>
+14~<b><color=#F70101>M</color><color=#F72A2B>E</color><color=#F75355>D</color><color=#F77C7F>K</color><color=#F7A5A9>I</color><color=#F7CED3>T</color></b>~<b>Heals <color=green>+65</color> health</b>
+15~<b><color=#F6F5F8>M</color><color=#F6F5ED>A</color><color=#F6F5E2>G</color><color=#F6F5D7>-</color><color=#F6F5CC>L</color><color=#F6F5C1>I</color><color=#F6F5B6>T</color><color=#F6F5AB>E</color> <color=#F6F595>P</color><color=#F6F58A>R</color><color=#F6F57F>O</color> <color=#F6F569>F</color><color=#F6F55E>L</color><color=#F6F553>A</color><color=#F6F548>S</color><color=#F6F53D>H</color><color=#F6F532>L</color><color=#F6F527>I</color><color=#F6F51C>G</color><color=#F6F511>H</color><color=#F6F506>T</color></b>~ <b>"Allow me to shed some light on the subject" - Goob</b>
+16~<b><color=#FCF003>M</color><color=#EEEC11>i</color><color=#E0E81F>c</color><color=#D2E42D>r</color><color=#C4E03B>o</color><color=#B6DC49>(</color><color=#A8D857>w</color><color=#9AD465>a</color><color=#8CD073>v</color><color=#7ECC81>e</color><color=#70C88F>)</color> <color=#54C0AB>G</color><color=#46BCB9>.</color><color=#38B8C7>U</color><color=#2AB4D5>.</color><color=#1CB0E3>N</color><color=#0EACF1>.</color></b>~<b>Heavy electrical device designed to microwave anomalies alive.</b>
+17~<b><color=#FA0606>S</color><color=#F9080E>C</color><color=#F80A16>P</color><color=#F70C1E>-</color><color=#F60E26>5</color><color=#F5102E>0</color><color=#F41236>0</color> <color=#F21646>(</color><color=#F1184E>R</color><color=#F01A56>e</color><color=#EF1C5E>d</color> <color=#ED206E>P</color><color=#EC2276>i</color><color=#EB247E>l</color><color=#EA2686>l</color><color=#E9288E>s</color> <color=#E72C9E>o</color><color=#E62EA6>r</color> <color=#E432B6>P</color><color=#E334BE>i</color><color=#E236C6>l</color><color=#E138CE>l</color><color=#E03AD6>s</color><color=#DF3CDE>)</color></b>~<b>The Panacea. Instantly restores all health and cures most afflictions. Also regens health for limited time after use.</b> 
+18~<b><color=#E108F5>S</color><color=#D70DE3>C</color><color=#CD12D1>P</color><color=#C317BF>-</color><color=#B91CAD>2</color><color=#AF219B>0</color><color=#A52689>7</color> <color=#913065>(</color><color=#873553>C</color><color=#7D3A41>o</color><color=#733F2F>l</color><color=#69441D>a</color><color=#5F490B>)</color></b>~<b>Harmfully increases motor skills.</b>
+20~<b><color=#1900F7>E</color><color=#1615F7>1</color><color=#132AF7>1</color><color=#103FF7>-</color><color=#0D54F7>S</color><color=#0A69F7>R</color></b>
+21~<b><color=#05A3F8>C</color><color=#0EA3F3>r</color><color=#17A3EE>o</color><color=#20A3E9>s</color><color=#29A3E4>s</color><color=#32A3DF>v</color><color=#3BA3DA>e</color><color=#44A3D5>c</color> <color=#56A3CB>(</color><color=#5FA3C6>V</color><color=#68A3C1>E</color><color=#71A3BC>C</color><color=#7AA3B7>T</color><color=#83A3B2>O</color><color=#8CA3AD>R</color><color=#95A3A8>)</color></b>
 23~FSP-9
 24~Logicer
 25~High-Explosive Grenade~A high explosive dealing significant damage. Detonates after a brief delay once thrown.

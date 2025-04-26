@@ -3,19 +3,19 @@
 <color=yellow><b>Settings</b></color>
 <color=red><b>Quit</b></color>
 <color=purple><b>Social Media</b></color>
-<color=green><b>Internet</b></color>
-<color=yellow>⭐Favourites⭐</color>
-<color=red><b>Official</b></color>
-<color=green><b>History</b></color>
-<color=blue><b>Friends</b></color>
+<color=green><i>Internet</i></color>
+<color=yellow><i>⭐Favorites⭐</i></color>
+<color=green><i>Official</i></color>
+<color=yellow><i>History</i></color>
+<color=red><i>Join A Friend</i></color>
 Search Servers
 Create Server
 Re-Join
 Direct Connect
 Refresh
-Hide Empty Games
-Hide Full Games
-No Whitelist
+<color=yellow>Hide Empty Games</color>
+<color=red>Hide Full Games</color>
+<i>No Whitelist</i>
 Video
 Audio
 Controls
@@ -64,13 +64,13 @@ Are you sure you want to quit?
 Screen Resolution
 Hide IP
 Fuck you, {username}!\nTranslation by BANANAMAN
-Credits
+<color=yellow><b>Credits</b></color>
 AUTHENTICATING
 Connecting to central servers...
-<color=green>Connection established</color>
-<color=red>Connection failure (Check console for details)</color>
-<color=red>Steam authentication failure (Check console for details)</color>
-<color=red>Discord authentication failure (Check console for details)</color>
+<color=green><b>CONNECTED TO CENTRAL SERVERS</b></color>
+<color=red><b>COULD NOT CONNECT TO CENTRAL SERVERS (Check console for details)</b></color>
+<color=red><b>STEAM AUTH FAILURE (Check console for details)</b></color>
+<color=red><b>DISCORD AUTH FAILURE (Check console for details)</b></color>
 Disabled
 Seconds
 Ragdoll Cleanup Time
@@ -91,7 +91,7 @@ Ambient Occlusion
 Volumetric Lights
 Bloom
 Toggle Subtitles
-Operational Guide
+<color=green><b>Operational Guide</b></color>
 Rent a Server
 penis
 PRESS ANY BUTTON TO CONTINUE

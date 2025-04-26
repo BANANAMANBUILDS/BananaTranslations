@@ -1,5 +1,5 @@
-Video
-Audio
-Controls
-Interface
-Other
+Video 🎥
+Audio 🔉
+Controls 🎮
+Interface 📺
+Other ❓

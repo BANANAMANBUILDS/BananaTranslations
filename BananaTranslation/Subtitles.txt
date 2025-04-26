@@ -27,5 +27,5 @@ Light Containment Zone is locked down and ready for decontamination.<split>The r
 <color=red><b>| ! WARHEAD RESUMED: [time] ! |</b></color>
 terminated by Marshmallow Man.
 Nine-Tailed Fox Backup Unit designated [designation] has entered the facility.<split>
-<color=green>| ! CHAOS BACKUP WAVE DETECTED ON SURFACE ! |</color>
 <color=green>| ! CHAOS SPAWN WAVE DETECTED ON SURFACE ! |</color>
+<color=green>| ! CHAOS BACKUP WAVE DETECTED ON SURFACE ! |</color>
