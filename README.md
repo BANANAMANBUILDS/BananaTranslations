@@ -44,27 +44,6 @@ Now move to the installation tutorial if you don't know how to install it from t
 </br>
 </details>
 
-<details>
-<summary><h2>How to Download</h2></summary>
-<br>
-1. Click "Code" then "Download Zip" <br />
-
-![image](https://github.com/user-attachments/assets/7a0dfcb9-44f5-4ec9-b739-f6d77a53d06c)
-
-2. Open file explorer and extract the zip file, then open that folder <br />
-
-![image](https://github.com/user-attachments/assets/3401df1f-6ee2-4f8a-ac9b-c42bbf4f3f89)
-
-3. Open the next folder and copy the one after that
-
-![image](https://github.com/user-attachments/assets/b284fc80-df4d-4f75-9329-a546ab7713e2)
-
-Now move to the installation tutorial if you don't know how to install it from there!
-
-
-</br>
-</details>
-
 
 
 
