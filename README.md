@@ -3,6 +3,8 @@ Simply go to settings > interface > interface language > BananaTranslationv2
 
 The language list may take time to load, just be patient.
 
+# THIS VERSION IS NOT FINISHED AND IS BEING WORKED ON
+
 <details>
 <summary><h2>How to Download</h2></summary>
 <br>
