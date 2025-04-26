@@ -23,6 +23,13 @@
 </br>
 </details>
 
+<details>
+<summary><h2>How to Download</h2></summary>
+<br>
+1. Click "Code"
+</br>
+</details>
+
 
 
 
