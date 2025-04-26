@@ -1,1 +1,1 @@
-<size=20><b>How to install</b></size>
+<b>How to install</b>
