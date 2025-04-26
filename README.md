@@ -26,10 +26,11 @@
 <details>
 <summary><h2>How to Download</h2></summary>
 <br>
-1. Click "Code" then Download <br />
+1. Click "Code" then "Download Zip" <br />
 
-![image](https://github.com/user-attachments/assets/46ea2b7c-7182-41df-b8be-d5d89b66d936)
-2.
+![image](https://github.com/user-attachments/assets/7a0dfcb9-44f5-4ec9-b739-f6d77a53d06c)
+
+2. 
 
 </br>
 </details>
