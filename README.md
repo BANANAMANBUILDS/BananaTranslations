@@ -30,7 +30,7 @@
 
 ![image](https://github.com/user-attachments/assets/7a0dfcb9-44f5-4ec9-b739-f6d77a53d06c)
 
-2. 
+2. Open file explorer and extract the zip file, then open that folder
 
 </br>
 </details>
