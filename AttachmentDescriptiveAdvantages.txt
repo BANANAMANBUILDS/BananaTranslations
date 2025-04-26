@@ -1,5 +1,0 @@
-<color=green><b>Light Source</b></color>
-<color=green><b>Ammo Counter</b></color>
-<color=green><b>Flash Suppression</b></color>
-<color=green><b>Night Vision</b></color>
-<color=green><b>Buckshot</b></color>

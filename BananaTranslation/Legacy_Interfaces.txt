@@ -1,0 +1,19 @@
+<b><color=green>LOW RANK</color></b>
+<b><color=red>SUPERIOR</color></b>
+<b><color=blue>SAME RANK</color></b>
+Class-D Personnel escaped
+Scientists survived
+Killed by SCP
+Terminated SCP subjects
+Alpha Warhead
+Detonated
+Unused
+Next round begins in about [time] seconds.
+SPECIAL ABILITY
+CREATE SINKHOLE
+USE SINKHOLE
+YOU DIED
+Murdered by:
+as
+Passive
+(hidden)

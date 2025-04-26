@@ -1,5 +1,0 @@
-Video
-Audio
-Controls
-Interface
-Other
