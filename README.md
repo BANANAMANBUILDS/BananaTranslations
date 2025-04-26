@@ -1,5 +1,6 @@
-## How to install
-
+<details>
+<summary># How to Install</summary>
+<br>
 1. Open Steam
 2. Click on "SCP: Secret Laboratory" <br />
 ![image](https://github.com/user-attachments/assets/1804cb0d-dfbf-4ea3-a639-113aabaac3a6)
@@ -18,6 +19,9 @@
 
 8. Make sure inside "BananaTranslationv2" all of the txt files are there <br />
 ![image](https://github.com/user-attachments/assets/2b82f911-9b81-4362-b5b8-599f79ade439)
+</details>
+
+
 
 
 
